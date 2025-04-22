@@ -14,7 +14,7 @@
 
 👋 Hello! I’m **Samitha Kannangara**, a dedicated web developer passionate about building **sleek, modern, and responsive** digital solutions.  
 💻 My expertise lies in **React.js**, **Tailwind CSS**, and delivering projects that fuse creativity with cutting-edge functionality.  
-🌐 Dive into my world at [samithakannangara.netlify.app](https://samithakannangara.vercel.app)!
+🌐 Dive into my world at [samithakannangara.vercel.app](https://samithakannangara.vercel.app)!
 
 ---
 
