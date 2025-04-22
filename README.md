@@ -14,7 +14,7 @@
 
 👋 Hello! I’m **Samitha Kannangara**, a dedicated web developer passionate about building **sleek, modern, and responsive** digital solutions.  
 💻 My expertise lies in **React.js**, **Tailwind CSS**, and delivering projects that fuse creativity with cutting-edge functionality.  
-🌐 Dive into my world at [samithakannangara.netlify.app](https://samithakannangara.netlify.app)!
+🌐 Dive into my world at [samithakannangara.netlify.app](https://samithakannangara.vercel.app)!
 
 ---
 
@@ -41,7 +41,7 @@
 
 ### 🔥 Featured Project: Samitha Portfolio
 
-- 🌐 **[Live Demo](https://samithakannangara.netlify.app)**  
+- 🌐 **[Live Demo](https://samithakannangara.vercel.app)**  
 - 📝 A professional portfolio powered by **React.js** and **Tailwind CSS**.  
 - ✨ Features: Fully responsive, SEO-optimized, and a seamless user experience.  
 - 🔗 Source Code: [samitha-portfolio](https://github.com/samitha123456789/samitha-portfolio)
@@ -83,7 +83,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/samitha-kannangara/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:samithamadhushanka085@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://samithakannangara.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
+  <a href="https://samithakannangara.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
